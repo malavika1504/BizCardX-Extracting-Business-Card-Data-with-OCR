@@ -53,5 +53,6 @@ BizCardX is a Streamlit web application designed to simplify the process of extr
 10. **Documentation**:
       Provides comprehensive documentation to guide users through the application's features and functionality.
 
-###conclusion:
+**conclusion:**
+
 BizCardX offers a comprehensive solution for extracting, managing, and utilizing information from business cards. By leveraging advanced technologies such as Optical Character Recognition (OCR), Streamlit, and MySQL database integration, BizCardX streamlines the process of digitizing business card data. Its user-friendly interface, robust features, and scalability make it an invaluable tool for professionals and businesses seeking to efficiently manage their contacts and networking efforts. With its focus on simplicity, security, and flexibility, BizCardX stands as a versatile solution that empowers users to effectively organize, access, and utilize business card information in the digital age.
