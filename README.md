@@ -24,34 +24,44 @@ BizCardX is a Streamlit web application designed to simplify the process of extr
 **Key Features of BizCardX:**
 
 1. **Image Upload**:
-      Users can easily upload images of business cards directly to the application.
+
+   Users can easily upload images of business cards directly to the application.
    
-2. **OCR Extraction**:
-      Utilizes Optical Character Recognition (OCR) technology to extract relevant information from uploaded business card images.
+3. **OCR Extraction**:
+
+   Utilizes Optical Character Recognition (OCR) technology to extract relevant information from uploaded business card images.
    
-3. **Data Display**:
-      Presents the extracted information in a user-friendly format for easy comprehension.
+5. **Data Display**:
 
-4. **Database Integration**:
-      Allows users to store extracted data in a MySQL database for future reference and organization.
+   Presents the extracted information in a user-friendly format for easy comprehension.
 
-5. **User-Friendly Interface**:
-      Streamlit-based interface provides a simple and intuitive user experience.
+7. **Database Integration**:
 
-6. **Data Management**:
-      Enables users to read, update, and delete stored data through the application interface.
+   Allows users to store extracted data in a MySQL database for future reference and organization.
 
-7. **Scalability**:
-      Designed with scalability in mind to accommodate future growth in data volume and user traffic.
+9. **User-Friendly Interface**:
 
-8. **Customization**:
-      Offers customizable features and extensibility options to adapt to users' evolving needs.
+   Streamlit-based interface provides a simple and intuitive user experience.
 
-9. **Security**:
-      Implements measures to ensure the security and integrity of user data, including encryption and user authentication.
+11. **Data Management**:
 
-10. **Documentation**:
-      Provides comprehensive documentation to guide users through the application's features and functionality.
+    Enables users to read, update, and delete stored data through the application interface.
+
+13. **Scalability**:
+
+    Designed with scalability in mind to accommodate future growth in data volume and user traffic.
+
+15. **Customization**:
+
+    Offers customizable features and extensibility options to adapt to users' evolving needs.
+
+17. **Security**:
+
+    Implements measures to ensure the security and integrity of user data, including encryption and user authentication.
+
+19. **Documentation**:
+
+    Provides comprehensive documentation to guide users through the application's features and functionality.
 
 **conclusion:**
 
